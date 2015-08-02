@@ -1,2 +1,4 @@
 # GitTest
-A test project 
+===
+
+My first time trying GitHub 
